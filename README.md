@@ -6,6 +6,9 @@ under the article sub-title.
 
 ## Definitions
 ### Pure Human
+
+![Pure Human](badges/pure_human.svg)
+
 Works in this category are solely written by a human with no assistance from any LLM whatsoever. Tooling providing spelling, grammar correction, thesaurus are compliant. Non-compliant tooling would be any direct interaction with an LLM at any stage in the writing, including ideation stage, and indirect interaction through a writing editor tool, such as a paragraph completion.
 
 ### Human (mostly)
