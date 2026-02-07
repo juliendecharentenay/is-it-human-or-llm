@@ -31,3 +31,66 @@ Works in this category are characterised by the use of an LLM in the ideation st
 Works in this category are characterised by the article being mostly written by an LLM. This may take the form of requesting an LLM to write a new article on a topic of choice, and prompting it in multiple steps or as a single shot to produce the final article. It can also be by preparing a set of bullet points corresponding to ideas to be expanded by the LLM; or even giving an example article and requesting a similar one to be re-written. In this category, most of the writing of the work can be attributed to the LLM. 
 
 ## How to use?
+
+Below are some ways to incorporate these badges in your contribution.
+
+### Raw HTML
+
+The following snips ought to load the relevant badge, provide a link to this readme description and a brief description on mouse hover.
+
+- Pure Human
+
+```
+        <a href="https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#pure-human" target="_blank">
+          <img src="https://raw.githubusercontent.com/juliendecharentenay/is-it-human-or-llm/main/badges/pure_human.svg"
+               alt="AI disclose: pure human"
+               title="All writing done by a human with no AI/LLM contribution"
+               />
+        </a>
+```
+
+- Human (mostly)
+
+```
+        <a href="https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#human-mostly" target="_blank">
+          <img src="https://raw.githubusercontent.com/juliendecharentenay/is-it-human-or-llm/main/badges/human_mostly.svg"
+               alt="AI disclose: Human (mostly)"
+               title="All writing done by a human with feedback of AI/LLM considered"
+               />
+        </a>
+```
+
+- Assisted
+
+```
+        <a href="https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#assisted" target="_blank">
+          <img src="https://raw.githubusercontent.com/juliendecharentenay/is-it-human-or-llm/main/badges/assisted.svg"
+               alt="AI disclose: Assisted"
+               title="Writing done by a human with assistance of an AI/LLM in the editing stage"
+               />
+        </a>
+```
+
+- Inspired
+
+```
+        <a href="https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#inspired" target="_blank">
+          <img src="https://raw.githubusercontent.com/juliendecharentenay/is-it-human-or-llm/main/badges/inspired.svg"
+               alt="AI disclose: Inspired"
+               title="Ideas generated through a human and AI/LLM collaboration. Writing is done by a human"
+               />
+        </a>
+```
+
+- LLM (mostly)
+
+```
+        <a href="https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#llm-mostly" target="_blank">
+          <img src="https://raw.githubusercontent.com/juliendecharentenay/is-it-human-or-llm/main/badges/llm_mostly.svg"
+               alt="AI disclose: LLM (mostly)"
+               title="Most of writing done by an AI/LLM under human supervision"
+               />
+        </a>
+```
+
+
