@@ -93,4 +93,24 @@ The following snips ought to load the relevant badge, provide a link to this rea
 </a>
 ```
 
+### Medium.com
+
+I tried a few different ways to import the images for medium and settled on the following simple approach:
+
+- Download the relevant badge in `png` format from the directory [`badges_png`](https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main/badges_png) (or download the archive `all.zip`)
+- Navigate to your medium article
+- Insert the badge using either the 'Add an image' tool or by dragging and dropping the file in place
+
+This is the best I could do with the simple medium interface. I was looking for a way to make the badge aligned with the left side of the text, but had no success. So centered it is.
+
+If you are game, you can also at the link to the description on this page:
+- Pure Human: [https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#pure-human](https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#pure-human)
+
+- Human (mostly): [https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#human-mostly](https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#human-mostly)
+
+- Assisted: [https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#assisted](https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#assisted)
+
+- Inspired: [https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#inspired](https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#inspired)
+
+- LLM (mostly): [https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#llm-mostly](https://github.com/juliendecharentenay/is-it-human-or-llm/tree/main?tab=readme-ov-file#llm-mostly)
 
